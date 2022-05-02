@@ -4,29 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <!-- This is the style links -->
-       <link rel="stylesheet" type="text/css" href="/styles.css">
+       <!--style links -->
+       <link rel="stylesheet" type="text/css" href="/css/styles.css">
     <title>JavaScript Code Quiz</title>
 </head>
 <body>
+
        <!-- Link to highscores -->
+       <button id="highscore">
        <a href="HighScores.html">View Highscores</a>
-       <!-- This is a wrapper -->
+      </button>
        <div id="wrapper">
            <!-- Div for timer -->
            <div id="currentTime"></div>
            <!-- Div for quiz content -->
            <div id="questionsDiv">
-               <h1>Coding Quiz Challenge</h1>
-               <p>Try to answer the following code-related questions within the time limit. Keep in mind that incorrect
-                   answers
-                   will penalize your score/time by ten seconds!</p>
+               <h1>Coding Quiz</h1>
+               <p>A quiz made for people who want to test their JavaScript knowledge!.
+                   come and try your hand! PREVAIL or FAIL.
+                   There will be a 15 second penalty for every question missed.
+               </p>
                <ul id="choicesUl"></ul>
                <!-- Buttons -->
                <button id="startTime">Start Quiz</button>
            </div>
    
        </div>
+
    
    
        <script src="./js/questions.js"></script>
