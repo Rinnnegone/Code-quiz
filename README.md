@@ -14,9 +14,6 @@ To view this project or download it please use the following links.
 
 * [ Screenshots of project ]
 
-<<<<<<< HEAD
-![Quiz-main-page] (./assets/images/Quiz-main-page.png)
-=======
 ![Quiz-main-page](https://user-images.githubusercontent.com/95316427/166183580-a6bff22d-17aa-4267-8eec-f4bdfe1cfd71.png)
 
 ![Question1](https://user-images.githubusercontent.com/95316427/166183567-9cb9d492-7083-435d-85ef-52b7d16181d5.png)
@@ -36,4 +33,3 @@ To view this project or download it please use the following links.
 ![Quiz-High-Score](https://user-images.githubusercontent.com/95316427/166183579-ae1ac662-7e73-49b2-afe5-9777e411d9bf.png)
 
 ![End of Quiz](https://user-images.githubusercontent.com/95316427/166183566-cd8eed71-5c71-4163-857d-98154bf6a2e0.png)
->>>>>>> 87c12e80997a49949c31e94e0a74de90892a6673
