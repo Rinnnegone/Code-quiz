@@ -14,4 +14,4 @@ To view this project or download it please use the following links.
 
 * [ Screenshots of project ]
 
-
+![Quiz-main-page] (./assets/images/Quiz-main-page.png)
